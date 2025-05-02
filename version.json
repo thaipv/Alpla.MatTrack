@@ -1,0 +1,21 @@
+{
+  "currentVersion": "1.0.2",
+  "author": {
+    "name": "thaipv",
+    "email": "thaipv@live.com",
+  },
+  "updates": {
+    "1.0.2": {
+      "releaseDate": "2025-05-02",
+      "description": "Sửa lỗi nhỏ và cải thiện hiệu suất giao diện người dùng."
+    },
+    "1.0.1": {
+      "releaseDate": "2025-04-25",
+      "description": "Thêm chức năng tạo báo cáo và ghi nhật ký theo dõi vật liệu."
+    },
+    "1.0.0": {
+      "releaseDate": "2025-04-15",
+      "description": "Phát hành ban đầu của Alpla.MatTrack với chức năng theo dõi và báo cáo cơ bản."
+    }
+  }
+}
