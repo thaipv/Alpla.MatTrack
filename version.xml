@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoftwareUpdate>
+    <General>
+        <LatestVersion>1.0.0</LatestVersion>
+        <Author>thaipv</Author>
+        <Email>thaipv@live.com</Email>
+    </General>
+    <Versions>
+        <Version>
+            <Number>1.0.0</Number>
+            <ReleaseDate>2025-05-03</ReleaseDate>
+            <Description>Phát hành phiên bản đầu tiên</Description>
+        </Version>
+    </Versions>
+</SoftwareUpdate>
