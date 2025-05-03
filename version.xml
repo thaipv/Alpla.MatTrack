@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SoftwareUpdate>
     <General>
-        <LatestVersion>1.0.0</LatestVersion>
+        <AppName>MatTrack</AppName>
         <Author>thaipv</Author>
-        <Email>thaipv@live.com</Email>
+        <Website>https://github.com/thaipv/Alpla.MatTrack</Website>
+        <LatestVersion>1.0.1</LatestVersion>
+        <ReleaseDate>2025-05-03</ReleaseDate>
+        <Description>Phát hành phiên bản đầu tiên</Description>
     </General>
     <Versions>
         <Version>
-            <Number>1.0.0</Number>
+            <VersionCode>1.0.0</VersionCode>
             <ReleaseDate>2025-05-03</ReleaseDate>
             <Description>Phát hành phiên bản đầu tiên</Description>
         </Version>
