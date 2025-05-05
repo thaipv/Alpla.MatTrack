@@ -1,0 +1,37 @@
+{
+    "SoftwareUpdate": {
+        "General": {
+            "AppName": "MatTrack",
+            "Author": "thaipv",
+            "Website": "https://github.com/thaipv/Alpla.MatTrack",
+            "LatestVersion": "1.0.2"
+        },
+        "Versions": [
+            {
+                "VersionCode": "1.0.2",
+                "ReleaseDate": "2025-05-05",
+                "Description": "Phát hành phiên bản 1.0.2 với các cải tiến và sửa lỗi nhỏ",
+                "Highlights": [
+                    "Tối ưu hiệu suất xử lý dữ liệu nguyên vật liệu",
+                    "Sửa lỗi giao diện khi mở rộng cửa sổ",
+                    "Cập nhật thư viện GDI+ để hỗ trợ bo góc mượt hơn"
+                ]
+            },
+            {
+                "VersionCode": "1.0.1",
+                "ReleaseDate": "2025-05-03",
+                "Description": "Phát hành phiên bản đầu tiên",
+                "Highlights": [
+                    "Giới thiệu phần mềm MatTrack",
+                    "Hỗ trợ quản lý vật tư, theo dõi tiêu hao, báo cáo cơ bản"
+                ]
+            },
+            {
+                "VersionCode": "1.0.0",
+                "ReleaseDate": "2025-05-03",
+                "Description": "Phát hành phiên bản đầu tiên",
+                "Highlights": []
+            }
+        ]
+    }
+}
